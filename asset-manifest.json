@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/Oneplus_demo_website/static/css/main.bee01a05.css",
-    "main.js": "/Oneplus_demo_website/static/js/main.d207918d.js",
+    "main.js": "/Oneplus_demo_website/static/js/main.7878545a.js",
     "static/media/Screentech.png": "/Oneplus_demo_website/static/media/Screentech.aac10fb14a5eb2e045c2.png",
     "static/media/10Timg.jpg": "/Oneplus_demo_website/static/media/10Timg.3c0834ac169832588e0f.jpg",
     "static/media/11R 5G.webp": "/Oneplus_demo_website/static/media/11R 5G.cd4bc5ea9b7f1bd7a0ff.webp",
     "static/media/oneplus11 5G.webp": "/Oneplus_demo_website/static/media/oneplus11 5G.65664fc3dafbb525202a.webp",
     "index.html": "/Oneplus_demo_website/index.html",
     "main.bee01a05.css.map": "/Oneplus_demo_website/static/css/main.bee01a05.css.map",
-    "main.d207918d.js.map": "/Oneplus_demo_website/static/js/main.d207918d.js.map"
+    "main.7878545a.js.map": "/Oneplus_demo_website/static/js/main.7878545a.js.map"
   },
   "entrypoints": [
     "static/css/main.bee01a05.css",
-    "static/js/main.d207918d.js"
+    "static/js/main.7878545a.js"
   ]
 }
