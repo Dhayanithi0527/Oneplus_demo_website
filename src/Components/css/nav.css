@@ -1,0 +1,21 @@
+.headings:hover{
+   
+    transition-duration: 0.18s;
+    color: white;
+
+
+}
+.headings{
+    text-decoration: none;
+    color: rgb(166, 156, 156);
+}
+@media (max-width: 768px) {
+    .headings {
+      color: white; 
+    }
+    .headings:hover{
+        text-decoration: underline;
+    }
+}
+
+  

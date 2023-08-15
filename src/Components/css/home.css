@@ -1,0 +1,28 @@
+
+.company_name:hover{
+    text-decoration: underline;
+    transition: 0.18s;
+    cursor: pointer;
+  
+}
+p{
+    font-size: 14px;
+}
+
+.shadow-card {
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); 
+    transition: 0.3s;
+}
+
+.shadow-card:hover {
+     
+    border:rgb(92, 192, 212);
+}
+
+.footer a{
+    text-decoration: none ;
+    color: white;
+}
+.footer a:hover{
+    color: gray;
+}
