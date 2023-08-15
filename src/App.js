@@ -6,12 +6,12 @@ import CartPage from './Components/pages/Cart';
 import About from './Components/pages/About';
 import Contact from './Components/pages/Contact';
 import Footer from './Components/inc/Footer';
-import {BrowserRouter as Router,Route,Routes } from 'react-router-dom';
+import {HashRouter as Router,Route,Routes } from 'react-router-dom';
 
 
 function App() {
   return (
-    <Router>
+    <Router basename='/'>
         <Navbars/>
         <Routes>
          
